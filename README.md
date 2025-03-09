@@ -29,8 +29,6 @@ This project is designed to be **challenging** and will introduce:
 - Implementing **financial indicators** like **Simple Moving Averages (SMA)**
 - Interactive **data visualization** with Plotly & Cufflinks
 
-If you find the project too difficult, feel free to refer to solution notebooks and walkthrough videos. Even following along will help you learn a lot!
-
 ## Installation & Setup
 Ensure you have the following Python libraries installed:
 ```bash
